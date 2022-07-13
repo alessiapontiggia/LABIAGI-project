@@ -1,7 +1,15 @@
 # progetto-LABIAGI---Breast-Cancer-Classifier-and-Detection
 Alessia Pontiggia 1892079
 
-Sono presenti due principali file .ipyb:
+Il progetto di laboratorio presentato è composto da due parti principali:
+
+- la prima, visibile al file "breast-cancer-classifier.ipynb", mostra l'analisi in ambito di apprendimento supervisionato del classificatore 
+Logistic Regression su due dataset distinti. Il primo insieme raccoglie dati di analisi del sangue, il secondo, invece, riporta valori dell'esame FNA.
+
+- la seconda, visibile al file "breast-cancer-detection.ipynb", riguarda lo studio di un terzo insieme di dati, le mammografie. In questo caso, si 
+studiano le immagini digitali con delle tecniche di computer vision.
+
+Sono presenti quindi due principali file .ipyb:
 
 Il file "breast-cancer-classifier.ipynb" è un notebook con codice in python. 
 
