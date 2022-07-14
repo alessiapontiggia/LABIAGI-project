@@ -25,7 +25,7 @@ Il "file breast-cancer-detection.ipynb" è un notebook con codice in python.
 Per eseguirlo ci sono due modi, di cui il primo è consigliato:
 
 1)  aprire il colab associato al file che si trova in alto a sinistra "open in Colab" ed eseguire tutte le celle sequenzialmente.
-In questa modalità si consiglia di controllare che i file "image-9.jpg" "m000.jpg" "multiple_areas.jpg" siano correttamente importato in /content. Se così non fosse, scaricare l'immagine contenuta in questa repository e importarla nel Colab, nella sezione File/.
+In questa modalità si consiglia di controllare che i file "image-9.jpg" "m000.jpg" "multiple_areas.jpg" siano correttamente importato in /content. Se così non fosse, scaricare le immagini contenute in questa repository e importarle nel Colab, nella sezione File/.
     
 2)  fare il download del codice (.py o .ipynb) e dell'immagine ed eseguirlo sul proprio device.
 
