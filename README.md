@@ -1,5 +1,6 @@
 # progetto-LABIAGI---Breast-Cancer-Classifier-and-Detection
-Alessia Pontiggia 1892079
+Author: Alessia Pontiggia 1892079
+Subject: Laboratorio di Intelligenza Artificiale e Grafica Interattiva
 
 Il progetto di laboratorio presentato è composto da due sezioni principali:
 
