@@ -21,7 +21,7 @@ Per eseguirlo:
 ![info1](https://user-images.githubusercontent.com/102748217/179772944-a9597359-4a90-45c1-9db8-93b82c35f2b3.png)
 
    Scaricare il dataset che si trova all'interno di questa repository "cancer_dataset.csv".
-   Importare in /content tale dataset nella sezione /File. 
+   Importare in /content tale dataset nella sezione /File del Colab. 
    ![info2](https://user-images.githubusercontent.com/102748217/179774053-944ce987-eb4c-46b9-92bb-23eb2d012091.png)
 
    Dopo aver importato il file, eseguire sequenzialmente tutte le celle.
