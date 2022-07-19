@@ -34,5 +34,6 @@ Per eseguirlo:
 Seguire i passi di cui al punto 1) importando i file "m2.PNG", "m3.PNG", "m4.PNG".
     
 NON è necessario scaricare pacchetti aggiuntivi. Basterà eseguire la cella contenente tutte le librerie esterne importate nel Colab:
+
 ![info3](https://user-images.githubusercontent.com/102748217/179776560-1be76dcf-2f54-4bf3-b8d5-152036d83e7e.PNG)
 
