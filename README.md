@@ -4,10 +4,10 @@ Alessia Pontiggia 1892079
 Il progetto di laboratorio presentato è composto da due sezioni principali:
 
 - la prima, visibile al file "breast-cancer-classifier.ipynb", mostra l'analisi in ambito di apprendimento supervisionato del classificatore 
-Logistic Regression su due dataset distinti. Il primo insieme raccoglie dati di analisi del sangue, il secondo, invece, riporta valori dell'esame FNA.
+Logistic Regression su due dataset distinti. Il primo insieme raccoglie dati di analisi del sangue, il secondo, invece, riporta valori dell'esame FNA. Obiettivo di questo paper è classificare su questi insiemi la presenza del tumore o meno.
 
 - la seconda, visibile al file "breast-cancer-detection.ipynb", riguarda lo studio di un terzo insieme di dati, le mammografie. In questo caso, si 
-studiano le immagini digitali con delle tecniche di computer vision.
+studiano le immagini digitali con delle tecniche di computer vision per rilevare l'area tumorale.
 
 COME ESEGUIRE IL CODICE
 
